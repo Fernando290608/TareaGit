@@ -17,6 +17,13 @@ body{
 
 }
 
+.text_sec{
+
+    font-weight: bold;
+    color: darkgray;
+
+}
+
 .block{
 
     margin-top: 15px;
