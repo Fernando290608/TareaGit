@@ -4,6 +4,26 @@ html{
 
 }
 
+body{
+
+    background-image: url(../img/fondo_marvin.jpg);
+
+}
+
+.text{
+
+    color: antiquewhite;
+    font-weight: bold;
+
+}
+
+.text_sec{
+
+    font-weight: bold;
+    color: darkgray;
+
+}
+
 .reflexiones{
 
 margin-top: 5px;
