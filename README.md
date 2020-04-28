@@ -1,4 +1,5 @@
 # TareaGit
-Jimenez Gamboa Marvin Roberto
-Peña Hernandez Luis Fernando
-Vazquez Rangel  Erick
+Integrantes:<br><br>
+Jiménez Gamboa Marvin Roberto<br>
+Peña Hernandez Luis Fernando<br>
+Vazquez Rangel  Erick<br>
